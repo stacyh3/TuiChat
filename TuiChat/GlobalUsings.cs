@@ -12,3 +12,5 @@ global using Microsoft.Agents.AI;
 global using OpenAI;
 global using System.ClientModel;
 global using Terminal.Gui;
+global using System.IO;
+global using TuiChat.Services;
