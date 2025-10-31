@@ -1,0 +1,14 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading;
+global using System.Threading.Tasks;
+global using Azure;
+global using Azure.AI.OpenAI;
+global using Azure.Core;
+global using Microsoft.AI.Foundry.Local;
+global using Microsoft.Agents.AI;
+global using OpenAI;
+global using System.ClientModel;
+global using Terminal.Gui;
